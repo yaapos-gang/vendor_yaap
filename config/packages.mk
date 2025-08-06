@@ -40,9 +40,6 @@ PRODUCT_PACKAGES += \
     ExactCalculator \
     Glimpse \
     MatLog \
-    TrichromeLibrary \
-    TrichromeWebView \
-    TrichromeChrome \
     Twelve \
     YASR \
     Seedvault \
@@ -91,7 +88,10 @@ PRODUCT_PACKAGES += \
     LatinIME \
     messaging \
     SetupWizard \
-    Talkback
+    Talkback \
+    TrichromeChrome \
+    TrichromeLibrary \
+    TrichromeWebView
 endif
 
 # Include explicitly to work around GMS issues

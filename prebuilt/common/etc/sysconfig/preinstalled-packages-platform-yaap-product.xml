@@ -53,7 +53,7 @@
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
     </install-in-user-type>
     <!-- Chromium -->
-    <install-in-user-type package="org.chromium.chrome">
+    <install-in-user-type package="app.vanadium.browser">
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />

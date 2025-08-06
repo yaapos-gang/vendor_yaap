@@ -15,5 +15,5 @@
     limitations under the License.
 -->
 <webviewproviders>
-    <webviewprovider availableByDefault="true" description="AOSP WebView" isFallback="true" packageName="com.android.webview" />
+    <webviewprovider availableByDefault="true" description="Vanadium WebView" isFallback="true" packageName="app.vanadium.webview" />
 </webviewproviders>
